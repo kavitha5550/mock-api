@@ -32,7 +32,7 @@
       "shortDescription": "Building websites using HTML, CSS, and JavaScript.",
       "author": "kajal123",
       "createdDate": "2026-01-01",
-      "image": "https://placehold.co/600x400?text=Web+Dev",
+      "image":"https://images.unsplash.com/photo-1517433456452-f9633a875f6f" ,
       "readMore": "Web development is the process of creating websites and web applications.\nIt includes frontend development using HTML, CSS, and JavaScript, and backend\ndevelopment using servers and databases.\n\nFrontend focuses on user interface and user experience.\nBackend handles logic, authentication, and data storage.\nModern web development also uses frameworks like React, Angular, and Vue."
     },
     {
@@ -41,7 +41,7 @@
       "shortDescription": "Learning from data to make better decisions.",
       "author": "Amit89",
       "createdDate": "2026-01-02",
-      "image": "https://placehold.co/600x400?text=Data+Science",
+      "image": "https://images.unsplash.com/photo-1551288049-bebda4e38f71",
       "readMore": "Data science is the study of data to extract meaningful insights.\nIt combines statistics, programming, and domain knowledge.\n\nData scientists analyze large datasets to find patterns.\nThey use tools like Python, SQL, and machine learning models.\nBusinesses use data science for predictions and decision making."
     },
     {
@@ -50,7 +50,7 @@
       "shortDescription": "Machines that can think and learn.",
       "author": "carezza23",
       "createdDate": "2026-01-03",
-      "image": "https://placehold.co/600x400?text=AI",
+      "image":  "https://images.unsplash.com/photo-1677442136019-21780ecad995",
       "readMore": "Artificial Intelligence allows machines to perform tasks that need human intelligence.\nAI systems can learn from data and improve over time.\n\nExamples include chatbots, recommendation systems, and self-driving cars.\nAI is widely used in healthcare, finance, and education."
     },
     {
@@ -59,7 +59,7 @@
       "shortDescription": "Creating user interfaces using React.",
       "author": "Mocky67",
       "createdDate": "2026-01-04",
-      "image": "https://placehold.co/600x400?text=React",
+      "image": "https://images.unsplash.com/photo-1633356122544-f134324a6cee",
       "readMore": "React is a JavaScript library for building user interfaces.\nIt uses components to create reusable UI elements.\n\nReact follows a virtual DOM for better performance.\nIt is widely used for single-page applications."
     },
     {
@@ -68,7 +68,7 @@
       "shortDescription": "Full-stack development using MongoDB, Express, React, and Node.",
       "author": "SaM001",
       "createdDate": "2026-01-05",
-      "image": "https://placehold.co/600x400?text=MERN",
+      "image": "https://images.unsplash.com/photo-1518770660439-4636190af475",
       "readMore": "MERN stack is a full-stack JavaScript framework.\nIt includes MongoDB for database, Express for backend,\nReact for frontend, and Node.js for server.\n\nMERN allows developers to build scalable web applications.\nIt uses JavaScript across the entire project."
     },
     {
@@ -77,9 +77,10 @@
       "shortDescription": "Teaching machines to learn from data automatically.",
       "author": "Amit89",
       "createdDate": "2026-01-06",
-      "image": "https://placehold.co/600x400?text=ML",
+      "image": "https://images.unsplash.com/photo-1504639725590-34d0984388bd",
       "readMore": "Machine Learning is a branch of Artificial Intelligence.\nIt allows systems to learn from data without being explicitly programmed.\n\nMachine learning models improve with experience.\nCommon examples include recommendation systems and spam filters.\nPython is widely used for machine learning development."
     },
+      
     {
       "id": "1770045723055",
       "title": "web1",
@@ -138,4 +139,5 @@
       "readMore": "focus on design\n"
     }
   ]
+
 }
